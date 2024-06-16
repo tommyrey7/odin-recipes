@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+h1 {
+    text-decoration: underline;
+    background-color: aquamarine;
+    color: purple;
+    font-size: 36;
+    text-align: center;
+}
+
+.cooking {
+    height: auto;
+    width: 200px;
+}
+
+#welcome { 
+    color: black;
+    background-color: yellowgreen;
+    font-weight: bold;
+    font-size: 26px;
+text-decoration: underline;
+}
+
+.description { 
+    color: black;
+}
+
+.recipe {
+    color: blue;
+    text-decoration: dotted;
+}
+
+#end {
+    color: red;
+    background-color: black;
+    font-weight: lighter;
+}
